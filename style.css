@@ -1,0 +1,24 @@
+.first {
+    margin-top: 5rem;
+    margin-bottom: 5 re;
+    border: solid 2px black;
+
+}
+
+.q {
+    width: 35%;
+    margin-left: 60%;
+}
+
+.img-uno {
+    margin-left: 200px;
+}
+
+.img-dos {
+    margin-left: 500px;
+}
+
+.img-uno, .img-dos {
+    width: 12%;
+    margin-top: 10rem;
+}
